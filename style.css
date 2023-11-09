@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  .Google {
+     text-align: center;
+     margin-top: 15%;
+  }
+  
+  img {
+    width: 300px;
+  }
+  
+  input[type=search] {
+    margin: 2%;
+    padding: 1%;
+    width: 45%;
+    border: 1px solid ;
+    border-radius: 40px;
+  cursor: pointer;
+  }
+  .icon {
+    margin-right: 0%;
+    
+  
+  }
+  .header {
+    text-align: center;
+    margin-top: 1%;
+  }
+  input[type=text]  {
+    
+  padding: 5px;
+  width: 90%;
+  border: 2px solid;
+  border-radius: 40px;
+  
+  
+  }
